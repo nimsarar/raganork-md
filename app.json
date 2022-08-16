@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/umar404/raganork-md",
+	"repository": "https://github.com/raganork-ind/whatsapp-bot",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -51,12 +51,12 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Umar"
+            "value":"Raganork"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"─☆𝑈𝛭𝛥𝑅☆─;─☆𝑈𝛭𝛥𝑅☆─;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
+            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
         },
         "MODE": {
             "description": "Private or public",
@@ -71,19 +71,7 @@
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
             "required": false,
-            "value":"*Hey Lol I'm Still Alive 😋*
-
-*Type  .list & .menu*
-
-*Join My Bot Group*
-
-*https://chat.whatsapp.com/BBQgiM0adHc1m3wM6fEw5Y*
-
-*Contact My Onwer 👻*
-
-*wa.me/+923165123719.*
-
-*Ummmmmm Ummmmm Nokii Irinno..... 😂🔥*"
+            "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
             "description": "Your MD session",
