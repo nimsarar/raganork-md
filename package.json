@@ -1,7 +1,7 @@
 {
   "name": "nimsara-md", 
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Nimsara whatsapp bot- Multi device version.",
   "main": "./Nimsara/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
