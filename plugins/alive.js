@@ -1,13 +1,13 @@
-/* Copyright (C) 2022 Sourav KL11.
+/* Copyright (C) 2022 Nimsaramd KL11.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Raganork MD - Sourav KL11
+Nimsara MD - Nimsaramd KL11
 */
 const {
   FancyRandom,
   getListFromCommand,
   skbuffer
-} = require("raganork-bot");
+} = require("nimsara-bot");
 const {
   Module,
   commands
